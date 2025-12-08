@@ -18,8 +18,8 @@ g++ --version
 Clone the repository:
 
 ```bash
-git clone https://github.com/mosesamwoma/cpp-programming.git
-cd cpp-programming
+git clone https://github.com/mosesamwoma/cPP-programming.git
+cd cPP-programming
 ```
 
 ## Notes
