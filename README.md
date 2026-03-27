@@ -1,6 +1,6 @@
 # C++ Programming
 
-A collection of small C++ programs for learning and practicing C++ programming concepts, including core fundamentals, object-oriented programming, STL (Standard Template Library), data structures, and algorithms.
+A collection of small C++ programs for learning and practicing C++ programming concepts, including core fundamentals and object-oriented programming
 
 ## Prerequisites
 
@@ -11,8 +11,7 @@ A collection of small C++ programs for learning and practicing C++ programming c
 Clone the repository:
 
 ```bash
-git clone https://github.com/mosesamwoma/cPP-programming.git
-cd cPP-programming
+https://github.com/mosesamwoma/CPP.git
 ```
 
 ## Notes
