@@ -5,13 +5,6 @@ A collection of small C++ programs for learning and practicing C++ programming c
 ## Prerequisites
 
 - G++ (GNU C++ Compiler) or any C++ compiler
-- Git
-
-To verify your C++ compiler installation:
-
-```bash
-g++ --version
-```
 
 ## Installation
 
@@ -23,10 +16,6 @@ cd cPP-programming
 ```
 
 ## Notes
-
-- Code includes comments and explanations for learning purposes
 - Programs cover various topics from basic syntax to advanced concepts
 
-## License
-
-This is a private learning project.
+---
